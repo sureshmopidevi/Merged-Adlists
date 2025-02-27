@@ -24,3 +24,7 @@ These are pre-merged, optimized lists split into multiple parts for better manag
 
 ### Quick Copy List
 Copy and paste the following comma-separated list to import all parts:
+
+``` code
+https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part001.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part002.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part003.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part004.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part005.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part006.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part007.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part008.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part009.txt
+```
