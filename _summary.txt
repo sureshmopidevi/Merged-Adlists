@@ -1,0 +1,80 @@
+=== Merged Lists Summary ===
+Generated: 2025-02-27 17:53:07
+
+Source URLs:
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+- https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+Statistics:
+- Total Source Domains: 2036092
+- Unique Domains: 1758541
+- Duplicates Removed: 277551
+- Number of Parts: 9
+
+Per Source Statistics:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt:
+  - Total Domains: 55853
+  - Unique Domains: 55853
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt:
+  - Total Domains: 6540
+  - Unique Domains: 6540
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt:
+  - Total Domains: 127470
+  - Unique Domains: 127470
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt:
+  - Total Domains: 9964
+  - Unique Domains: 9964
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt:
+  - Total Domains: 192866
+  - Unique Domains: 192866
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt:
+  - Total Domains: 188
+  - Unique Domains: 188
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt:
+  - Total Domains: 481
+  - Unique Domains: 481
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt:
+  - Total Domains: 526801
+  - Unique Domains: 526801
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt:
+  - Total Domains: 111951
+  - Unique Domains: 111951
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt:
+  - Total Domains: 87180
+  - Unique Domains: 87180
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt:
+  - Total Domains: 3782
+  - Unique Domains: 3782
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt:
+  - Total Domains: 370
+  - Unique Domains: 370
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt:
+  - Total Domains: 891279
+  - Unique Domains: 891279
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt:
+  - Total Domains: 2114
+  - Unique Domains: 2114
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt:
+  - Total Domains: 2881
+  - Unique Domains: 2881
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt:
+  - Total Domains: 13468
+  - Unique Domains: 13468
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt:
+  - Total Domains: 2904
+  - Unique Domains: 2904
