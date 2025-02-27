@@ -28,3 +28,11 @@ Copy and paste the following comma-separated list to import all parts:
 ``` code
 https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part001.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part002.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part003.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part004.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part005.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part006.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part007.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part008.txt, https://raw.githubusercontent.com/sureshmopidevi/Merged-Adlists/refs/heads/main/list_part009.txt
 ```
+
+### Notes
+- Total unique domains across all parts: ~1.75M
+- Updated regularly with the latest domains
+- Each part is independently usable
+- Parts are sorted alphabetically
+- Duplicates have been removed
+- All entries are validated and cleaned
